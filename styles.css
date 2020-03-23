@@ -55,4 +55,8 @@
         display: block;
         width: 100%;
     }
+
+    .item {
+        width: 100%;
+    }
 }
